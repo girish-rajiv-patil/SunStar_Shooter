@@ -1,7 +1,7 @@
 #pragma once
 
 /* Google Play */
-#define LINK "https://play.google.com/store/apps/details?id=com.wry.phantomstar"
+#define LINK "https://girish-rajiv-patil.github.io/"
 
 /* DELAY */
 #define DELAY_SPLASH_SCENE 1
